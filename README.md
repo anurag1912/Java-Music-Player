@@ -1,2 +1,3 @@
 # m_player
 Trying to build a music player....
+Will start with simple parsing of canonical .wav format, adding OS dependent libraries, research etc.
