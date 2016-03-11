@@ -1,13 +1,14 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+Program to write the full path of *ALL* sound files (.mp3/.wav) to a .txt file on secondary storage. Multi-threaded version.
+
+*/
 
 /**
  *
- * @author Admin
+ * @author Anurag
  */
+ 
+ 
 import java.io.FileWriter;
 import java.io.BufferedWriter;
 import java.util.Stack;
