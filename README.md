@@ -1,6 +1,6 @@
 # m_player
 Trying to build a music player....
-Implementing file crawling to detect .mp3 and .wav files and other sound files.
-Converting the above implementation to a multi-threaded one.
+Implemented file crawling to detect .mp3 and .wav files and other sound files.
+Converted the above implementation to a multi-threaded one.
 Using depth-first to search file tree for sound files.
 Will import libraries to play mp3 and wav files...
