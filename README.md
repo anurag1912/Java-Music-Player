@@ -1,4 +1,4 @@
-# m_player
+# Music Player
 Trying to build a music player....
 Implemented file crawling to detect .mp3 and .wav files and other sound files.
 Converted the above implementation to a multi-threaded one.
