@@ -28,7 +28,7 @@ private Node root;
  }
  public void print(Node temp){
   if(temp!=null) {
-      System.out.print(temp.c);
+      //System.out.print(temp.c);
       if(temp.s!=null)
           System.out.println(temp.s);
       print(temp.equal);
